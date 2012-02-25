@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="test">テスト</string>
+    <!-- menu -->
+    <string name="menu_save">保存</string>
+    <string name="menu_saveas">名前を付けて保存</string>
+    <string name="menu_load">読み込む</string>
+    <string name="menu_close">閉じる</string>
+    <string name="ttl_menu_share">共有</string>
+    <string name="ttl_menu_setting">設定</string>
+    <string name="ttl_menu_info_details">情報</string>
+    <string name="dsp_menu_close_clear_cancel">終了</string>
+    <string name="get_premium">プレミアムを取得してください。</string>
+    <string name="cnt_menu_info_details">旅コンシェル</string>
+    <string name="version">1.0</string>
+    <string name="msg_menu_close_clear_cancel">終了します。よろしいですか？</string>
+</resources>

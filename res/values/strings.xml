@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TabiConcier</string>
+    <string name="test">test</string>
+    <!-- menu -->
+    <string name="menu_save">Save</string>
+    <string name="menu_saveas">Save As</string>
+    <string name="menu_load">Load</string>
+    <string name="menu_close">Close</string>
+    <string name="msg_menu_close_clear_cancel">Abort?</string>
+    <string name="version">1.0</string>
+    <string name="cnt_menu_info_details">TabiConcier</string>
+    <string name="get_premium">Pleage install premium-version</string>
+    <string name="dsp_menu_close_clear_cancel">Close</string>
+    <string name="ttl_menu_info_details">Info</string>
+    <string name="ttl_menu_setting">Setting</string>
+    <string name="ttl_menu_share">Share</string>
+</resources>
