@@ -1,9 +1,9 @@
     #header {
       height: 60px;
     }
-    .footer {
-        position:fixed;
-        position:absolute;
+    #footer {
+//        position:fixed;
+//        position:absolute;
         right:0;
         bottom:-100px;
         padding:0;
